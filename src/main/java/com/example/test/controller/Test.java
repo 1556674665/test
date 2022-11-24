@@ -12,7 +12,7 @@ public class Test {
 
     @GetMapping("/api")
     public String test() {
-        return "test";
+        return "我是大帅批";
     }
 
 }
