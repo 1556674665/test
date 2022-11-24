@@ -16,7 +16,6 @@ import java.util.Map;
 @RestController
 public class Test {
 
-
     @GetMapping("/api")
     public String test() {
 
